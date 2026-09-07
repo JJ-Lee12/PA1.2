@@ -28,6 +28,19 @@ options so that I can style my reports.
 
 Here's a simple Python example:
 
+``` python
+# This is a comment
+name = "Justin Lee"
+age = 30
+print(f"Hello, my name is {name} and I am {age} years old.")
+```
+
+### **Useful resources:**
+
+* [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+*Remember: Practice makes perfect!*
+
 ## Task 2 Open rendered markdown preview
 
 Test out the rendered markdown preview in VS code (`CTRL`+`SHIFT`+`V`). Is it identical to the image?
