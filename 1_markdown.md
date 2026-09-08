@@ -22,7 +22,7 @@ This is my introduction to *markdown formatting*. I'm learning how to use variou
 
 * Variables store data values
 * Functions are reusable blocks of code
-* **print()** is a built-in Python function
+* `print()` is a built-in Python function
 * Comments help explain code to others
 
 Here's a simple Python example:
