@@ -9,8 +9,7 @@ Here is the example to replicate:
 
 ### My First Markdown Document
 
-This is my introduction to *markdown formatting*. I'm learning how to use various formatting  
-options so that I can style my reports.
+This is my introduction to *markdown formatting*. I'm learning how to use various formatting options so that I can style my reports.
 
 #### **Skills I'm practicing:**
 
@@ -51,7 +50,11 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
-% WRITE YOUR MARKDOWN HERE
+|
+|
+|
+|
+|
 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
